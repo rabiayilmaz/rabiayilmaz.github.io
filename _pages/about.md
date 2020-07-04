@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Hakkımda"
-excerpt: "Hakkımda"
-author_profile: true
-redirect_from: 
-  - /hakkımda/
-  - /hakkımda.html
+# title: "Hakkımda"
+# excerpt: "Hakkımda"
+# author_profile: true
+# redirect_from: 
+  # - /hakkımda/
+  # - /hakkımda.html
 ---
 
 Randevu almak için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz. 
