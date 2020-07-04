@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Psikolog Rabia Yılmaz"
-  avatar           : "profile.png"
+  avatar           : "Rabia Yılmaz"
   bio              : "psikolograbiayilmaz@gmail.com"
   location         : "İstanbul"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rabia-yılmaz-a35941120/"
+  linkedin         : https://www.linkedin.com/in/rabia-yılmaz-a35941120/
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
