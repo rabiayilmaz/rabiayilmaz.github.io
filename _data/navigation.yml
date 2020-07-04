@@ -15,8 +15,8 @@ main:
   - title: "Özgeçmiş"
     url: /ozgecmis/
     
- # - title: "blog"
- #   url: /blog/
+  - title: "Blog"
+    url: /blog/
     
  # - title: "Guide"
  #  url: /markdown/
