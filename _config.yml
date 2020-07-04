@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Rabia Yılmaz"
 description              : &description "Psikolog Rabia Yılmaz"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/rabia-yılmaz-a35941120/
+  linkedin         : # https://www.linkedin.com/in/rabia-yılmaz-a35941120/
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
