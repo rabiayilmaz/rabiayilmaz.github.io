@@ -8,4 +8,4 @@ redirect_from:
   - /hakkımda.html
 ---
 
-Psikolog Rabia Yılmaz'ın sayfasıdır. 
+Psikolog Rabia Yılmaz'ın sayfasıdır. Randevu almak için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz. 
