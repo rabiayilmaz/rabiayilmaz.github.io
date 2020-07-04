@@ -12,11 +12,11 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Özgeçmiş"
-    url: /ozgecmis/
+#  - title: "Özgeçmiş"
+ #   url: /ozgecmis/
     
-  - title: "Blog"
-    url: /blog/
+#  - title: "Blog"
+ #   url: /blog/
     
  # - title: "Guide"
  #  url: /markdown/
