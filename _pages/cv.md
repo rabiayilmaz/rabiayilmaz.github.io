@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Özgeçmiş"
+permalink: /ozgecmis/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,51 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Lisans ve Yüksek Lisans Eğitimim
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji, 2018
+* İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji, Tez Dönemi
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Aldığım Eğitimler
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dinamik Psikoterapi Eğitimi (Doğan Şahin, 40 Saat, 4 temmuz-16 Ağustos 2020)
+* Oyun Terapisi Giriş Eğitimi (Kli. Psk. Mehmet Teber, 24 saat, APT Onaylı, 2018)
+* Psikanalize Giriş Seminerleri (Psike İstanbul Derneği, 2017-2018)
+* Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 48 saat, 2018)
+* İşaret Dili Eğitimi (Arzu Söğüt, MEB Ataşehir Halk Eğitim Müdürlüğü, 120 saat, 2016-2017)
 
-Publications
+
+Katıldığım Kongre ve Konferanslar
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, 6-7 Haziran 2020, Sözlü Bildiri
+* Uluslararası İslami Psikoloji Konferansı (İZÜ, 2018)
+* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak (Varoluşçu Psikoterapiler Derneği, 2017)
+* Jane McAdams Freud Konferans ve Atölye Çalışması (Psike İstanbul Derneği, 2017)
+* Kültür ve Etik Seminerleri (BETİM, 2018)
