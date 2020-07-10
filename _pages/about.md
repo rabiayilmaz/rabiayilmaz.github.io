@@ -12,7 +12,7 @@ Randevu almak için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
 
 Lisans ve Yüksek Lisans Eğitimim
 ======
-* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji, 2018
+* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji
 * İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji, Tez Dönemi
 
 
