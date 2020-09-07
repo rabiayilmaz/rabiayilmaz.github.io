@@ -16,12 +16,13 @@ Sorularınız ve randevu talebiniz için psikolograbiayilmaz@gmail.com adresine 
 Lisans ve Yüksek Lisans Eğitimim
 ======
 * Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji
-* İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji, Tez Dönemi
+* İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji
 
 
 Aldığım Eğitimler
 ======
-* Dinamik Psikoterapi Eğitimi (Doğan Şahin, 40 Saat, 4 temmuz-16 Ağustos 2020)
+* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Doğan Şahin, 90 saat, 5 Eylül-13 Aralık)
+* Dinamik Psikoterapi Eğitimi (Doğan Şahin, 40 Saat, 4 Temmuz-16 Ağustos 2020)
 * Oyun Terapisi Giriş Eğitimi (Kli. Psk. Mehmet Teber, 24 saat, APT Onaylı, 2018)
 * Psikanalize Giriş Seminerleri (Psike İstanbul Derneği, 2017-2018)
 * Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 48 saat, 2018)
