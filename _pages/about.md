@@ -21,12 +21,12 @@ Lisans ve Yüksek Lisans Eğitimim
 
 Aldığım Eğitimler
 ======
-* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Doğan Şahin, 90 saat, 5 Eylül-13 Aralık 2020)
-* Dinamik Psikoterapi Eğitimi (Doğan Şahin, 40 Saat, 4 Temmuz-16 Ağustos 2020)
-* Oyun Terapisi Giriş Eğitimi (Kli. Psk. Mehmet Teber, 24 saat, APT Onaylı, 2018)
-* Psikanalize Giriş Seminerleri (Psike İstanbul Derneği, 2017-2018)
-* Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 48 saat, 2018)
-* İşaret Dili Eğitimi (Arzu Söğüt, MEB Ataşehir Halk Eğitim Müdürlüğü, 120 saat, 2016-2017)
+* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi
+* Dinamik Psikoterapi Eğitimi
+* Oyun Terapisi Giriş Eğitimi
+* Psikanalize Giriş Seminerleri
+* Gençleri ve Gençlik Dönemini Anlama Sanatı
+* İşaret Dili Eğitimi
 
 
 Katıldığım Kongre ve Konferanslar
