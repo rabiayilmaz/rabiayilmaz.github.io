@@ -31,8 +31,8 @@ Aldığım Eğitimler
 
 Katıldığım Kongre ve Konferanslar
 ======
-* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, 6-7 Haziran 2020, Sözlü Bildiri
-* Uluslararası İslami Psikoloji Konferansı (İZÜ, 2018)
-* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak (Varoluşçu Psikoterapiler Derneği, 2017)
-* Jane McAdams Freud Konferans ve Atölye Çalışması (Psike İstanbul Derneği, 2017)
-* Kültür ve Etik Seminerleri (BETİM, 2018)
+* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri
+* Uluslararası İslami Psikoloji Konferansı
+* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak
+* Jane McAdams Freud Konferans ve Atölye Çalışması
+* Kültür ve Etik Seminerleri
