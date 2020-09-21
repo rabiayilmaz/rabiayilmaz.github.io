@@ -8,7 +8,7 @@ permalink: /
   # - /hakkımda.html
 ---
 
-Hoş geldiniz, yetişkin bireylerle çalışmaktayım. COVİD-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebi için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
+Hoş geldiniz, yetişkin bireylerle çalışmaktayım. COVID-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebi için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
 
 İnstagram sayfam: pskrabiayilmaz
 
