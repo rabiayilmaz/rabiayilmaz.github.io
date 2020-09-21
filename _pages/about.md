@@ -31,7 +31,6 @@ Aldığım Eğitimler
 * Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin, 2020)
 * Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin, 2020)
 * Oyun Terapisi Giriş Eğitimi (Klinik Psikolog Mehmet Teber, 2018)
-* Psikanalize Giriş Seminerleri (2017-2018)
 * Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 2018)
 * İşaret Dili Eğitimi (Arzu Söğüt, 2017-2018)
 
@@ -39,7 +38,8 @@ Aldığım Eğitimler
 Katıldığım Kongre ve Konferanslar
 ======
 * İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri
+* Psikanalize Giriş Seminerleri (2017-2018)
 * Uluslararası İslami Psikoloji Konferansı
 * Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak
 * Jane McAdams Freud Konferans ve Atölye Çalışması
-* Kültür ve Etik Seminerleri
+* Kültür ve Etik Seminerleri, BETİM
