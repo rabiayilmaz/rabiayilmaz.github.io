@@ -22,7 +22,7 @@ Online terapi uygulamasında ise görüşmeler Skype veya diğer sesli ve görü
 
 Lisans ve Yüksek Lisans Eğitimim
 ======
-* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji
+* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji, Tam Burslu
 * İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji
 
 
