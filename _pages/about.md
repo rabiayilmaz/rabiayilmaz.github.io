@@ -10,7 +10,7 @@ permalink: /
 
 Hoş geldiniz, yetişkin bireylerle çalışmaktayım. COVID-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebiniz için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
 
-Terapi yaklaşımı olarak Bilişsel Davranışçı Terapi’yi benimsemekteyim. Çalıştığım alanlardan bazıları duygudurum bozuklukları (depresyon, öfke sorunları vb.), kaygı bozuklukları (yaygın anksiyete, panik atak, obsesif kompülsif bozukluk, sosyal kaygı, özgül fobiler, travma vb.) ve ilişki problemleridir (ilişki kurmada ve sürdürmede yaşanan problemler, uyum problemleri vb.).
+Terapi yaklaşımımda Bilişsel Davranışçı Terapi ve Aktarım Odaklı Terapi'den faydalanmaktayım. Çalıştığım alanlardan bazıları duygudurum bozuklukları (depresyon, öfke sorunları vb.), kaygı bozuklukları (yaygın anksiyete, panik atak, obsesif kompülsif bozukluk, sosyal kaygı, özgül fobiler, travma vb.) ve ilişki problemleridir (ilişki kurmada ve sürdürmede yaşanan problemler, uyum problemleri vb.).
 
 Seanslar 50 dakikadır ve haftada bir kez görüşme yapılır. Ancak görüşmelerin sıklığı danışanın ve uzmanın ortak kararına göre belirlenebilir. Bazı durumlarda haftada birden fazla görüşme gerekebilirken bazı durumlarda ayda bir ya da 2-3 görüşme gerçekleştirilebilir. Görüşme sıklığının değişebilmesinin sebebi kişiye özel olmasıdır. Terapinin ne kadar süreceği veya etkili olacağı da aynı şekilde kişiye özeldir. 
 
@@ -28,18 +28,22 @@ Lisans ve Yüksek Lisans Eğitimim
 
 Aldığım Eğitimler
 ======
-* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin, 2020)
-* Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin, 2020)
-* Oyun Terapisi Giriş Eğitimi (Klinik Psikolog Mehmet Teber, 2018)
-* Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 2018)
+* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin, 90 saat, 2020)
+* Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin, 40 saat, 2020)
+* Diyalektik Davranış Terapi Online Beceri Eğitimi (Doç. Dr. Elif Çelebi, 36 saat, 2020)
+* Oyun Terapisi Giriş Eğitimi (Klinik Psikolog Mehmet Teber, 24 saat, 2018)
+* Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 48 saat, 2018)
 * İşaret Dili Eğitimi (Arzu Söğüt, 2017-2018)
 
 
-Katıldığım Kongre ve Konferanslar
+Katıldığım Kongre, Konferans ve Seminerler
 ======
-* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri
+* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri (Haziran, 2020)
+* Dinamik Yönelimli Cinsel Terapi Seminerleri (Eylül-Ekim, 2020)
+* Değerler Ekseni Seminerleri (Ekim, 2020)
+* Ebeveyn Okulu 2 (Ekim, 2020)
 * Psikanalize Giriş Seminerleri (2017-2018)
-* Uluslararası İslami Psikoloji Konferansı
-* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak
-* Jane McAdams Freud Konferans ve Atölye Çalışması
-* Kültür ve Etik Seminerleri, BETİM
+* Uluslararası İslami Psikoloji Konferansı (Ekim, 2018)
+* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak (Nisan, 2018)
+* Jane McAdams Freud Konferans ve Atölye Çalışması (Mayıs, 2018)
+* Kültür ve Etik Seminerleri, BETİM (2017-2018)
