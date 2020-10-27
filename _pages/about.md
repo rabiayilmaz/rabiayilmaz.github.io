@@ -8,7 +8,7 @@ permalink: /
   # - /hakkımda.html
 ---
 
-Hoş geldiniz, yetişkin bireylerle çalışmaktayım. COVID-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebiniz için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
+Hoş geldiniz, ben Klinik Psikolog Rabia Yılmaz. Yetişkin bireylerle çalışmaktayım. COVID-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebiniz için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
 
 Terapi yaklaşımımda Bilişsel Davranışçı Terapi ve Aktarım Odaklı Terapi'den faydalanmaktayım. Çalıştığım alanlardan bazıları duygudurum bozuklukları (depresyon, öfke sorunları vb.), kaygı bozuklukları (yaygın anksiyete, panik atak, obsesif kompülsif bozukluk, sosyal kaygı, özgül fobiler, travma vb.) ve ilişki problemleridir (ilişki kurmada ve sürdürmede yaşanan problemler, uyum problemleri vb.).
 
