@@ -18,7 +18,7 @@ Bireysel terapi, danışan ile klinik psikolog arasında kişiye özel, güven v
 
 Online terapi uygulamasında ise görüşmeler Skype veya diğer sesli ve görüntülü haberleşme uygulamaları ile yürütülür. Online görüşmelerde de yüz yüze görüşmelerde olduğu gibi terapi çerçevesine dikkat edilir ve etik ilkelere uyulur. 
 
-İnstagram sayfam: pskrabiayilmaz
+İnstagram sayfam: klinikpskrabiayilmaz
 
 Lisans ve Yüksek Lisans Eğitimim
 ======
