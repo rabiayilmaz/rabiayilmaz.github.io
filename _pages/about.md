@@ -38,12 +38,12 @@ Aldığım Eğitimler
 
 Katıldığım Kongre, Konferans ve Seminerler
 ======
-* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri (Haziran, 2020)
-* Dinamik Yönelimli Cinsel Terapi Seminerleri (Eylül-Ekim, 2020)
-* Değerler Ekseni Seminerleri (Ekim, 2020)
-* Ebeveyn Okulu 2 (Ekim, 2020)
-* Psikanalize Giriş Seminerleri (2017-2018)
-* Uluslararası İslami Psikoloji Konferansı (Ekim, 2018)
-* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak (Nisan, 2018)
-* Jane McAdams Freud Konferans ve Atölye Çalışması (Mayıs, 2018)
-* Kültür ve Etik Seminerleri, BETİM (2017-2018)
+* İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri
+* Dinamik Yönelimli Cinsel Terapi Seminerleri
+* Değerler Ekseni Seminerleri
+* Ebeveyn Okulu 2
+* Psikanalize Giriş Seminerleri
+* Uluslararası İslami Psikoloji Konferansı
+* Varoluşçu Buluşmalar 1: Varoluşçuluğu Anlamak
+* Jane McAdams Freud Konferans ve Atölye Çalışması
+* Kültür ve Etik Seminerleri, BETİM
