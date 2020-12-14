@@ -28,12 +28,12 @@ Lisans ve Yüksek Lisans Eğitimim
 
 Aldığım Eğitimler
 ======
-* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin, 90 saat, 2020)
-* Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin, 40 saat, 2020)
-* Diyalektik Davranış Terapi Online Beceri Eğitimi (Doç. Dr. Elif Çelebi, 36 saat, 2020)
-* Oyun Terapisi Giriş Eğitimi (Klinik Psikolog Mehmet Teber, 24 saat, 2018)
-* Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman, 48 saat, 2018)
-* İşaret Dili Eğitimi (Arzu Söğüt, 2017-2018)
+* Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin)
+* Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin)
+* Diyalektik Davranış Terapi Online Beceri Eğitimi (Doç. Dr. Elif Çelebi)
+* Oyun Terapisi Giriş Eğitimi (Klinik Psikolog Mehmet Teber)
+* Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman)
+* İşaret Dili Eğitimi 
 
 
 Katıldığım Kongre, Konferans ve Seminerler
