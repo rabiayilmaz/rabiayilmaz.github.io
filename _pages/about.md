@@ -28,12 +28,13 @@ Lisans ve Yüksek Lisans Eğitimim
 
 Aldığım Eğitimler
 ======
+* Diyalektik Davranış Terapi Online Beceri Eğitimi (Doç. Dr. Elif Çelebi)
 * Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin)
 * Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin)
-* Diyalektik Davranış Terapi Online Beceri Eğitimi (Doç. Dr. Elif Çelebi)
 * Oyun Terapisi Giriş Eğitimi (Klinik Psikolog Mehmet Teber)
 * Gençleri ve Gençlik Dönemini Anlama Sanatı (Doç. Dr. Ömer Miraç Yaman)
 * İşaret Dili Eğitimi 
+* Temel EFT Eğitimi
 
 
 Katıldığım Kongre, Konferans ve Seminerler
