@@ -41,6 +41,8 @@ Katıldığım Kongre, Konferans ve Seminerler
 * İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri
 * Dinamik Yönelimli Cinsel Terapi Seminerleri
 * Değerler Ekseni Seminerleri
+* Değersizlik Duygusunun Nedenleri ve Çözümleri Atölyesi 
+* Sınırlar ve Hayır Diyebilmek Atölyesi 
 * Ebeveyn Okulu 2
 * Psikanalize Giriş Seminerleri
 * Uluslararası İslami Psikoloji Konferansı
