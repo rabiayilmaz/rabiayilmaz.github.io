@@ -8,7 +8,7 @@ permalink: /
   # - /hakkımda.html
 ---
 
-Hoş geldiniz, ben Klinik Psikolog Rabia Yılmaz. Yetişkin bireylerle çalışmaktayım. COVID-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebiniz için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
+Merhaba, ben Klinik Psikolog Rabia Yılmaz. Yetişkin bireylerle çalışmaktayım. COVID-19 önlemleri doğrultusunda bireysel danışmanlık hizmetime online görüşmelerle devam etmekteyim. Sorularınız ve randevu talebiniz için psikolograbiayilmaz@gmail.com adresine mail atabilirsiniz.
 
 Terapi yaklaşımımda Bilişsel Davranışçı Terapi ve Aktarım Odaklı Terapi'den faydalanmaktayım. Çalıştığım alanlardan bazıları duygudurum bozuklukları (depresyon, öfke sorunları vb.), kaygı bozuklukları (yaygın anksiyete, panik atak, obsesif kompülsif bozukluk, sosyal kaygı, özgül fobiler, travma vb.) ve ilişki problemleridir (ilişki kurmada ve sürdürmede yaşanan problemler, uyum problemleri vb.).
 
@@ -22,12 +22,14 @@ Online terapi uygulamasında ise görüşmeler Skype veya diğer sesli ve görü
 
 Lisans ve Yüksek Lisans Eğitimim
 ======
-* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji, Tam Burslu
-* İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji
+* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji (Tam Burslu, Onur Belgesi)
+* İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji (Başarı Burslu, Yüksek Onur Belgesi)
 
 
 Aldığım Eğitimler
 ======
+* Kabul ve Kararlılık Terapisi Eğitimi (Dr. Russ Harris)
+* Islamic Psychology And Counselling- Level 1
 * Diyalektik Davranış Terapi Online Beceri Eğitimi (Doç. Dr. Elif Çelebi)
 * Kişilik, Kişilik Bozuklukları ve Dinamik Terapi Eğitimi (Prof. Dr. Doğan Şahin)
 * Dinamik Psikoterapi Eğitimi (Prof. Dr. Doğan Şahin)
@@ -40,10 +42,11 @@ Aldığım Eğitimler
 Katıldığım Kongre, Konferans ve Seminerler
 ======
 * İZÜ Sosyal Bilimler Lisansüstü Öğrenci Kongresi, Sözlü Bildiri
-* Dinamik Yönelimli Cinsel Terapi Seminerleri
+* Obsesif Kompülsif Bozukluk Atölyesi
 * Değerler Ekseni Seminerleri
 * Değersizlik Duygusunun Nedenleri ve Çözümleri Atölyesi 
 * Sınırlar ve Hayır Diyebilmek Atölyesi 
+* Dinamik Yönelimli Cinsel Terapi Seminerleri
 * Ebeveyn Okulu 2
 * Psikanalize Giriş Seminerleri
 * Uluslararası İslami Psikoloji Konferansı
