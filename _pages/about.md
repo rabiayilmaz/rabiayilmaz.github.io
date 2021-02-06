@@ -12,19 +12,19 @@ Merhaba, ben Klinik Psikolog Rabia Yılmaz. Yetişkin bireylerle çalışmaktay�
 
 Terapi yaklaşımımda Bilişsel Davranışçı Terapi ve Aktarım Odaklı Terapi'den faydalanmaktayım. Çalıştığım alanlardan bazıları duygudurum bozuklukları (depresyon, öfke sorunları vb.), kaygı bozuklukları (yaygın anksiyete, panik atak, obsesif kompülsif bozukluk, sosyal kaygı, özgül fobiler, travma vb.) ve ilişki problemleridir (ilişki kurmada ve sürdürmede yaşanan problemler, uyum problemleri vb.).
 
-Seanslar 50 dakikadır ve haftada bir kez görüşme yapılır. Ancak görüşmelerin sıklığı danışanın ve uzmanın ortak kararına göre belirlenebilir. Bazı durumlarda haftada birden fazla görüşme gerekebilirken bazı durumlarda ayda bir ya da 2-3 görüşme gerçekleştirilebilir. Görüşme sıklığının değişebilmesinin sebebi kişiye özel olmasıdır. Terapinin ne kadar süreceği veya etkili olacağı da aynı şekilde kişiye özeldir. 
-
 Bireysel terapi, danışan ile klinik psikolog arasında kişiye özel, güven ve gizlilik esasına dayalı bir ilişki ile başlayan bir süreçtir. Terapiye başlandığı takdirde danışanın kendine hedef olarak seçtiği konular tartışılır ve üzerinde konuşulan/revize edilen hedeflere ulaşmak için gerekli çalışmaların yapılacağı seanslar başlatılır. 
+
+Seanslar 50 dakikadır ve haftada bir kez görüşme yapılır. Ancak görüşmelerin sıklığı danışanın ve uzmanın ortak kararına göre belirlenebilir. Bazı durumlarda haftada birden fazla görüşme gerekebilirken bazı durumlarda ayda bir ya da 2-3 görüşme gerçekleştirilebilir. Görüşme sıklığının değişebilmesinin sebebi kişiye özel olmasıdır. Terapinin ne kadar süreceği veya etkili olacağı da aynı şekilde kişiye özeldir. 
 
 Online terapi uygulamasında ise görüşmeler Skype veya diğer sesli ve görüntülü haberleşme uygulamaları ile yürütülür. Online görüşmelerde de yüz yüze görüşmelerde olduğu gibi terapi çerçevesine dikkat edilir ve etik ilkelere uyulur. 
 
 İnstagram sayfam: klinikpskrabiayilmaz
 
-Lisans ve Yüksek Lisans Eğitimim
+Lisans, Yüksek Lisans ve Doktora Eğitimim
 ======
-* Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji (Tam Burslu, Onur Belgesi)
-* İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji (Başarı Burslu, Yüksek Onur Belgesi)
-
+* Lisans: Fatih Sultan Mehmet Vakıf Üniversitesi, Psikoloji (Tam Burslu, Onur Belgesi)
+* Yüksek Lisans: İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji (Başarı Burslu, Yüksek Onur Belgesi)
+* Doktora: İstanbul Sabahattin Zaim Üniversitesi, Klinik Psikoloji (Devam Ediyor, Başarı Burslu)
 
 Aldığım Eğitimler
 ======
